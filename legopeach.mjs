@@ -7574,7 +7574,7 @@ var entry = {
   iconURL: img$3,
   insetIconURL: img$2,
   description: /*#__PURE__*/React.createElement(FormattedMessage, {
-    defaultMessage: "Know what he is doing.",
+    defaultMessage: "Recieve commands from Princess Peach.",
     id: "gui.extension.legomario.description"
   }),
   featured: true,
